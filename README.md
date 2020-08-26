@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuenews
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# News01
+独立01
+>>>>>>> 219d1aee46066a718d90f1c07e040195d6d66c66
